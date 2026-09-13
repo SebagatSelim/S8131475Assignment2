@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">S8131475Assignment2</string>
+
+    <string name="login_title">Welcome</string>
+    <string name="login_subtitle">Sign in with your student ID and first name</string>
+    <string name="hint_student_id">Student ID</string>
+    <string name="helper_student_id">Numbers only, without the leading \'s\'</string>
+    <string name="hint_first_name">First name</string>
+    <string name="login_button">Log in</string>
+
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_item_count">%1$d items</string>
+    <string name="logout">Log out</string>
+
+    <string name="details_title">Details</string>
+    <string name="description_label">Description</string>
+    <string name="back">Back</string>
+</resources>
